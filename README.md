@@ -1,16 +1,23 @@
-## Hi there 👋
+# Meow meow
 
-<!--
-**No-name-and-surname/No-name-and-surname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+frogolonso@meow:~$ whoami
 
-Here are some ideas to get you started:
+> Cybersec/CTF enjoer
+> Beyond bytes and binaries, I also fond of merch making and CTF tasks dev ^^
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 
+
+*   **Languages:** C, Python, Assembly (x86/x64), Bash
+*   **OS/Env:** Linux (Debian (ex NixOS) user), Docker, Git
+*   **Tools:** IDA Pro, Ghidra, GDB (with pwndbg/gef), Radare2, QEMU, qiling 
+*   **CTF:** Active player in the CTF community, focusing primarily on **pwn** and **rev** categories. Always up for a challenging binary or a complex heap layout.
+*   **Art & Merch:** When I'm not writing exploits, I draw. I made merch for one team and AxiomCTF Final, and going to make more
+
+---
+
+## My conts
+
+*   **Telegram:** @Frogolonso
+*   _Open for collaborations on security tools, CTF dev, and interesting tasks!_
