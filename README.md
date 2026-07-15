@@ -11,7 +11,7 @@ frogolonso@meow:~$ whoami
 
 ### 
 
-*   **Languages:** C, Python, Assembly (x86/x64), Bash
+*   **Languages:** Python, Assembly (x86/x64), Bash
 *   **OS/Env:** Linux (Debian (ex NixOS) user), Docker, Git
 *   **Tools:** IDA Pro, Ghidra, GDB (with pwndbg/gef), Radare2, QEMU, qiling 
 *   **CTF:** Active player in the CTF community, focusing primarily on **pwn** and **rev** categories. Always up for a challenging binary or a complex heap layout.
